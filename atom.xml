@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shaoxiong94.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-05-24T20:58:31.745Z</updated>
+    <updated>2020-06-18T13:23:53.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shaoxiong94.github.io/"/>
     <link rel="self" href="https://shaoxiong94.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://shaoxiong94.github.io/images/avatar.png</logo>
     <icon>https://shaoxiong94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.06.13]]></title>
+        <id>https://shaoxiong94.github.io/post/20200613/</id>
+        <link href="https://shaoxiong94.github.io/post/20200613/">
+        </link>
+        <updated>2020-06-13T07:20:24.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.06.13<br>
+她来姨妈，晚上又闹了一架．<br>
+我有时候真的不明白我一心一意的对你好，换来的为什么还是你的不满意．<br>
+从上午知道你来姨妈开始，我觉着我能想到的该做的都做了，起床第一秒，我饿，所以我怕你饿，所以问了你几遍，吃不吃鸡蛋，<br>
+即使我知道已经快中午了．被你怼了回去，说都快中午了，还吃什么鸡蛋．<br>
+接着就是给你烧排骨汤．汤好的时候，你说你肚子不舒服，不想喝．我喝了一碗，发现玉米超级好吃，所以问了你，吃不吃玉米，玉米超级好吃，你说不吃，我过了一会，又来问，因为实在太好吃了，觉着你没有吃饭，所以忍不住的又问了一遍，吃不吃玉米．你不耐烦的对我说，都说了不吃了．最后你吃到的时候说好吃，我咋想啊．其实，每次包括这次，我都会把好的玉米块，排骨给你，几乎所有的东西，我认为好的东西都给你，我希望换来的不是你的不满意．<br>
+晚上我打了王者，每次都会问你你打不打，你不理我，在刷斗音，所以我自己去打了，结果，你说我不陪你了，我应该怎么回答你呢．<br>
+你看了斗音，看到了别的情侣都会一起打，可恩爱，我们没有吗，我们要跟他们比什么呀，我们的恩爱需要他们看到吗，他们恩爱的教材，不是我们不恩爱的反面教材吧，我们明明有自的方式，你拿他们的恩爱来破坏我们的恩爱是什么意思．就这吧．</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shaoxiong94.github.io/post/hello-gridea/</id>
